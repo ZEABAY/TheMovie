@@ -1,0 +1,4263 @@
+[
+{
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 232169000
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 39,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 246569000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "Starting TheMovieApplication using Java 21.0.5 with PID 64127 (/Users/zeynel/zeabay/themovie/target/classes started by zeynel in /Users/zeynel/zeabay/themovie)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 261799000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 279795000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 280074000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 502935000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Multiple Spring Data modules found, entering strict repository configuration mode",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 503224000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 519430000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 12 ms. Found 2 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 655269000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Multiple Spring Data modules found, entering strict repository configuration mode",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 655554000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JDBC repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 661366000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport",
+  "message" : "Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.zeabay.themovie.modules.popularmovies.repository.PopularMovieRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 661588000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport",
+  "message" : "Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.zeabay.themovie.modules.shared.repository.GenreRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998813,
+    "nanoOfSecond" : 661722000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 13596000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 19531000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 20365000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 20558000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.33]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 38142000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 38395000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 758 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 200654000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 226137000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.6.2.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 240495000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 345991000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 358067000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 500793000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 108041ab-e1ad-4176-ac53-ead3a4bd7e82",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 501475000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 580405000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.orm.connections.pooling",
+  "message" : "HHH10001005: Database info:\n\tDatabase JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']\n\tDatabase driver: undefined/unknown\n\tDatabase version: 16.0\n\tAutocommit mode: undefined/unknown\n\tIsolation level: undefined/unknown\n\tMinimum pool size: undefined/unknown\n\tMaximum pool size: undefined/unknown",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.log.ConnectionInfoLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998814,
+    "nanoOfSecond" : 951950000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998815,
+    "nanoOfSecond" : 30987000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998815,
+    "nanoOfSecond" : 415915000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998815,
+    "nanoOfSecond" : 969754000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.data.convert.CustomConversions",
+  "message" : "Registering converter from class microsoft.sql.DateTimeOffset to class java.time.OffsetDateTime as reading converter although it doesn't convert from a store-supported type; You might want to check your annotation setup at the converter implementation",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998815,
+    "nanoOfSecond" : 969976000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.data.convert.CustomConversions",
+  "message" : "Registering converter from class microsoft.sql.DateTimeOffset to class java.time.Instant as reading converter although it doesn't convert from a store-supported type; You might want to check your annotation setup at the converter implementation",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 34254000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 40291000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver",
+  "message" : "Exposing 1 endpoint beneath base path '/actuator'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 76928000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 83228000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8080 (http) with context path '/'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 90117000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "Started TheMovieApplication in 2.959 seconds (process running for 3.382)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 351318000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 351862000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998816,
+    "nanoOfSecond" : 352862000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 1 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733998857,
+    "nanoOfSecond" : 715801000
+  },
+  "thread" : "http-nio-8080-exec-8",
+  "level" : "INFO",
+  "loggerName" : "org.springdoc.api.AbstractOpenApiResource",
+  "message" : "Init duration for springdoc-openapi is: 91 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 63,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999073,
+    "nanoOfSecond" : 586480000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.GracefulShutdown",
+  "message" : "Commencing graceful shutdown. Waiting for active requests to complete",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999073,
+    "nanoOfSecond" : 590529000
+  },
+  "thread" : "tomcat-shutdown",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.GracefulShutdown",
+  "message" : "Graceful shutdown complete",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999073,
+    "nanoOfSecond" : 595959000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999073,
+    "nanoOfSecond" : 598311000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999073,
+    "nanoOfSecond" : 600099000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+
+]
+{
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 330197000
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 39,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 343158000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "Starting TheMovieApplication using Java 21.0.5 with PID 64166 (/Users/zeynel/zeabay/themovie/target/classes started by zeynel in /Users/zeynel/zeabay/themovie)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 355765000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 371891000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 372161000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 576133000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Multiple Spring Data modules found, entering strict repository configuration mode",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 576401000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 592323000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 12 ms. Found 2 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 719008000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Multiple Spring Data modules found, entering strict repository configuration mode",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 719258000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JDBC repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 724612000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport",
+  "message" : "Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.zeabay.themovie.modules.popularmovies.repository.PopularMovieRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 724819000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport",
+  "message" : "Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.zeabay.themovie.modules.shared.repository.GenreRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999075,
+    "nanoOfSecond" : 724947000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 70276000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 75552000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 76224000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 76428000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.33]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 94144000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 94397000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 722 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 255190000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 275388000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.6.2.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 287832000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 384740000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 395467000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 527194000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 0c0f1723-f485-4456-8c04-bda38db81e06",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 527852000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 563778000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.orm.connections.pooling",
+  "message" : "HHH10001005: Database info:\n\tDatabase JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']\n\tDatabase driver: undefined/unknown\n\tDatabase version: 16.0\n\tAutocommit mode: undefined/unknown\n\tIsolation level: undefined/unknown\n\tMinimum pool size: undefined/unknown\n\tMaximum pool size: undefined/unknown",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.log.ConnectionInfoLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 911553000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999076,
+    "nanoOfSecond" : 990624000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 328919000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 879530000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.data.convert.CustomConversions",
+  "message" : "Registering converter from class microsoft.sql.DateTimeOffset to class java.time.OffsetDateTime as reading converter although it doesn't convert from a store-supported type; You might want to check your annotation setup at the converter implementation",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 879752000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.data.convert.CustomConversions",
+  "message" : "Registering converter from class microsoft.sql.DateTimeOffset to class java.time.Instant as reading converter although it doesn't convert from a store-supported type; You might want to check your annotation setup at the converter implementation",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 945185000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 951495000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver",
+  "message" : "Exposing 1 endpoint beneath base path '/actuator'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 986778000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 992970000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8080 (http) with context path '/'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999077,
+    "nanoOfSecond" : 999968000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "Started TheMovieApplication in 2.759 seconds (process running for 3.131)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999078,
+    "nanoOfSecond" : 494638000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999078,
+    "nanoOfSecond" : 494972000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999078,
+    "nanoOfSecond" : 495929000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 0 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999085,
+    "nanoOfSecond" : 39212000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "ERROR",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]",
+  "message" : "Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: Test] with root cause",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Test",
+    "message" : "Test",
+    "name" : "java.lang.RuntimeException",
+    "extendedStackTrace" : [ {
+      "class" : "com.zeabay.themovie.common.core.service.BaseServiceImpl",
+      "method" : "create",
+      "file" : "BaseServiceImpl.java",
+      "line" : 32,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 103,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 580,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.support.AopUtils",
+      "method" : "invokeJoinpointUsingReflection",
+      "file" : "AopUtils.java",
+      "line" : 359,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "invokeJoinpoint",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 196,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 163,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.aspectj.AspectJAfterThrowingAdvice",
+      "method" : "invoke",
+      "file" : "AspectJAfterThrowingAdvice.java",
+      "line" : 64,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor",
+      "method" : "invoke",
+      "file" : "MethodBeforeAdviceInterceptor.java",
+      "line" : 58,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.interceptor.ExposeInvocationInterceptor",
+      "method" : "invoke",
+      "file" : "ExposeInvocationInterceptor.java",
+      "line" : 97,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor",
+      "method" : "intercept",
+      "file" : "CglibAopProxy.java",
+      "line" : 727,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "class" : "com.zeabay.themovie.modules.popularmovies.services.concretes.PopularMovieServiceImpl$$SpringCGLIB$$0",
+      "method" : "create",
+      "file" : "<generated>",
+      "line" : -1,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "com.zeabay.themovie.modules.popularmovies.controller.PopularMovieController",
+      "method" : "create",
+      "file" : "PopularMovieController.java",
+      "line" : 28,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 103,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 580,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.support.AopUtils",
+      "method" : "invokeJoinpointUsingReflection",
+      "file" : "AopUtils.java",
+      "line" : 359,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "invokeJoinpoint",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 196,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 163,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.aspectj.AspectJAfterThrowingAdvice",
+      "method" : "invoke",
+      "file" : "AspectJAfterThrowingAdvice.java",
+      "line" : 64,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor",
+      "method" : "invoke",
+      "file" : "AfterReturningAdviceInterceptor.java",
+      "line" : 57,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor",
+      "method" : "invoke",
+      "file" : "MethodBeforeAdviceInterceptor.java",
+      "line" : 58,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.interceptor.ExposeInvocationInterceptor",
+      "method" : "invoke",
+      "file" : "ExposeInvocationInterceptor.java",
+      "line" : 97,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor",
+      "method" : "intercept",
+      "file" : "CglibAopProxy.java",
+      "line" : 727,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "class" : "com.zeabay.themovie.modules.popularmovies.controller.PopularMovieController$$SpringCGLIB$$0",
+      "method" : "create",
+      "file" : "<generated>",
+      "line" : -1,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 103,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 580,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "doInvoke",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 255,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "invokeForRequest",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 188,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod",
+      "method" : "invokeAndHandle",
+      "file" : "ServletInvocableHandlerMethod.java",
+      "line" : 118,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "invokeHandlerMethod",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 986,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "handleInternal",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 891,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter",
+      "method" : "handle",
+      "file" : "AbstractHandlerMethodAdapter.java",
+      "line" : 87,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doDispatch",
+      "file" : "DispatcherServlet.java",
+      "line" : 1088,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doService",
+      "file" : "DispatcherServlet.java",
+      "line" : 978,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "processRequest",
+      "file" : "FrameworkServlet.java",
+      "line" : 1014,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "doPost",
+      "file" : "FrameworkServlet.java",
+      "line" : 914,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "jakarta.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 590,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "6.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "service",
+      "file" : "FrameworkServlet.java",
+      "line" : 885,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "jakarta.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 658,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "6.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 195,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.websocket.server.WsFilter",
+      "method" : "doFilter",
+      "file" : "WsFilter.java",
+      "line" : 51,
+      "exact" : false,
+      "location" : "tomcat-embed-websocket-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.RequestContextFilter",
+      "method" : "doFilterInternal",
+      "file" : "RequestContextFilter.java",
+      "line" : 100,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.FormContentFilter",
+      "method" : "doFilterInternal",
+      "file" : "FormContentFilter.java",
+      "line" : 93,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.ServerHttpObservationFilter",
+      "method" : "doFilterInternal",
+      "file" : "ServerHttpObservationFilter.java",
+      "line" : 114,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.CharacterEncodingFilter",
+      "method" : "doFilterInternal",
+      "file" : "CharacterEncodingFilter.java",
+      "line" : 201,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardWrapperValve",
+      "method" : "invoke",
+      "file" : "StandardWrapperValve.java",
+      "line" : 167,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardContextValve",
+      "method" : "invoke",
+      "file" : "StandardContextValve.java",
+      "line" : 90,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.authenticator.AuthenticatorBase",
+      "method" : "invoke",
+      "file" : "AuthenticatorBase.java",
+      "line" : 483,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardHostValve",
+      "method" : "invoke",
+      "file" : "StandardHostValve.java",
+      "line" : 115,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.valves.ErrorReportValve",
+      "method" : "invoke",
+      "file" : "ErrorReportValve.java",
+      "line" : 93,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardEngineValve",
+      "method" : "invoke",
+      "file" : "StandardEngineValve.java",
+      "line" : 74,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.connector.CoyoteAdapter",
+      "method" : "service",
+      "file" : "CoyoteAdapter.java",
+      "line" : 344,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.coyote.http11.Http11Processor",
+      "method" : "service",
+      "file" : "Http11Processor.java",
+      "line" : 397,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.coyote.AbstractProcessorLight",
+      "method" : "process",
+      "file" : "AbstractProcessorLight.java",
+      "line" : 63,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.coyote.AbstractProtocol$ConnectionHandler",
+      "method" : "process",
+      "file" : "AbstractProtocol.java",
+      "line" : 905,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.net.NioEndpoint$SocketProcessor",
+      "method" : "doRun",
+      "file" : "NioEndpoint.java",
+      "line" : 1741,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.net.SocketProcessorBase",
+      "method" : "run",
+      "file" : "SocketProcessorBase.java",
+      "line" : 52,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1190,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 659,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.threads.TaskThread$WrappingRunnable",
+      "method" : "run",
+      "file" : "TaskThread.java",
+      "line" : 63,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 1583,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 56,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999142,
+    "nanoOfSecond" : 436727000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.GracefulShutdown",
+  "message" : "Commencing graceful shutdown. Waiting for active requests to complete",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999142,
+    "nanoOfSecond" : 439677000
+  },
+  "thread" : "tomcat-shutdown",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.GracefulShutdown",
+  "message" : "Graceful shutdown complete",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 86,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999142,
+    "nanoOfSecond" : 443663000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999142,
+    "nanoOfSecond" : 445485000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999142,
+    "nanoOfSecond" : 447005000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+
+]
+{
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 30393000
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 39,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 44356000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "Starting TheMovieApplication using Java 21.0.5 with PID 64179 (/Users/zeynel/zeabay/themovie/target/classes started by zeynel in /Users/zeynel/zeabay/themovie)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 56991000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 72771000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 73044000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 277358000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Multiple Spring Data modules found, entering strict repository configuration mode",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 277636000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 294412000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 13 ms. Found 2 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 426324000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Multiple Spring Data modules found, entering strict repository configuration mode",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 426605000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JDBC repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 432780000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport",
+  "message" : "Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.zeabay.themovie.modules.popularmovies.repository.PopularMovieRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 433085000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport",
+  "message" : "Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.zeabay.themovie.modules.shared.repository.GenreRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 433217000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 6 ms. Found 0 JDBC repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 770134000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 774804000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 775425000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 775637000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.33]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 789667000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 789891000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 716 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 944878000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 964226000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.6.2.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999144,
+    "nanoOfSecond" : 974870000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999145,
+    "nanoOfSecond" : 71482000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999145,
+    "nanoOfSecond" : 81932000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999145,
+    "nanoOfSecond" : 209090000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: f3464beb-56d2-4945-adbe-688bc4d1b800",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999145,
+    "nanoOfSecond" : 209756000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999145,
+    "nanoOfSecond" : 240569000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.orm.connections.pooling",
+  "message" : "HHH10001005: Database info:\n\tDatabase JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']\n\tDatabase driver: undefined/unknown\n\tDatabase version: 16.0\n\tAutocommit mode: undefined/unknown\n\tIsolation level: undefined/unknown\n\tMinimum pool size: undefined/unknown\n\tMaximum pool size: undefined/unknown",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.log.ConnectionInfoLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999145,
+    "nanoOfSecond" : 583626000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999145,
+    "nanoOfSecond" : 650509000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 289000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 556990000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.data.convert.CustomConversions",
+  "message" : "Registering converter from class microsoft.sql.DateTimeOffset to class java.time.OffsetDateTime as reading converter although it doesn't convert from a store-supported type; You might want to check your annotation setup at the converter implementation",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 557250000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.data.convert.CustomConversions",
+  "message" : "Registering converter from class microsoft.sql.DateTimeOffset to class java.time.Instant as reading converter although it doesn't convert from a store-supported type; You might want to check your annotation setup at the converter implementation",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 626675000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 633179000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver",
+  "message" : "Exposing 1 endpoint beneath base path '/actuator'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 671287000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 677933000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8080 (http) with context path '/'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999146,
+    "nanoOfSecond" : 685125000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zeabay.themovie.TheMovieApplication",
+  "message" : "Started TheMovieApplication in 2.748 seconds (process running for 3.115)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 36,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999147,
+    "nanoOfSecond" : 212305000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999147,
+    "nanoOfSecond" : 212838000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999147,
+    "nanoOfSecond" : 213787000
+  },
+  "thread" : "RMI TCP Connection(3)-127.0.0.1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 1 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 71,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999156,
+    "nanoOfSecond" : 573834000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "ERROR",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]",
+  "message" : "Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: Test] with root cause",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Test",
+    "message" : "Test",
+    "name" : "java.lang.RuntimeException",
+    "extendedStackTrace" : [ {
+      "class" : "com.zeabay.themovie.common.core.service.BaseServiceImpl",
+      "method" : "create",
+      "file" : "BaseServiceImpl.java",
+      "line" : 32,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 103,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 580,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.support.AopUtils",
+      "method" : "invokeJoinpointUsingReflection",
+      "file" : "AopUtils.java",
+      "line" : 359,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "invokeJoinpoint",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 196,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 163,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.aspectj.AspectJAfterThrowingAdvice",
+      "method" : "invoke",
+      "file" : "AspectJAfterThrowingAdvice.java",
+      "line" : 64,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor",
+      "method" : "invoke",
+      "file" : "MethodBeforeAdviceInterceptor.java",
+      "line" : 58,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.interceptor.ExposeInvocationInterceptor",
+      "method" : "invoke",
+      "file" : "ExposeInvocationInterceptor.java",
+      "line" : 97,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor",
+      "method" : "intercept",
+      "file" : "CglibAopProxy.java",
+      "line" : 727,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "class" : "com.zeabay.themovie.modules.popularmovies.services.concretes.PopularMovieServiceImpl$$SpringCGLIB$$0",
+      "method" : "create",
+      "file" : "<generated>",
+      "line" : -1,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "com.zeabay.themovie.modules.popularmovies.controller.PopularMovieController",
+      "method" : "create",
+      "file" : "PopularMovieController.java",
+      "line" : 28,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 103,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 580,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.support.AopUtils",
+      "method" : "invokeJoinpointUsingReflection",
+      "file" : "AopUtils.java",
+      "line" : 359,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "invokeJoinpoint",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 196,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 163,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.aspectj.AspectJAfterThrowingAdvice",
+      "method" : "invoke",
+      "file" : "AspectJAfterThrowingAdvice.java",
+      "line" : 64,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor",
+      "method" : "invoke",
+      "file" : "AfterReturningAdviceInterceptor.java",
+      "line" : 57,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor",
+      "method" : "invoke",
+      "file" : "MethodBeforeAdviceInterceptor.java",
+      "line" : 58,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.interceptor.ExposeInvocationInterceptor",
+      "method" : "invoke",
+      "file" : "ExposeInvocationInterceptor.java",
+      "line" : 97,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.ReflectiveMethodInvocation",
+      "method" : "proceed",
+      "file" : "ReflectiveMethodInvocation.java",
+      "line" : 184,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor",
+      "method" : "intercept",
+      "file" : "CglibAopProxy.java",
+      "line" : 727,
+      "exact" : false,
+      "location" : "spring-aop-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "class" : "com.zeabay.themovie.modules.popularmovies.controller.PopularMovieController$$SpringCGLIB$$0",
+      "method" : "create",
+      "file" : "<generated>",
+      "line" : -1,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 103,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 580,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "doInvoke",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 255,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "invokeForRequest",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 188,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod",
+      "method" : "invokeAndHandle",
+      "file" : "ServletInvocableHandlerMethod.java",
+      "line" : 118,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "invokeHandlerMethod",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 986,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "handleInternal",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 891,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter",
+      "method" : "handle",
+      "file" : "AbstractHandlerMethodAdapter.java",
+      "line" : 87,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doDispatch",
+      "file" : "DispatcherServlet.java",
+      "line" : 1088,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doService",
+      "file" : "DispatcherServlet.java",
+      "line" : 978,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "processRequest",
+      "file" : "FrameworkServlet.java",
+      "line" : 1014,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "doPost",
+      "file" : "FrameworkServlet.java",
+      "line" : 914,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "jakarta.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 590,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "6.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "service",
+      "file" : "FrameworkServlet.java",
+      "line" : 885,
+      "exact" : false,
+      "location" : "spring-webmvc-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "jakarta.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 658,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "6.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 195,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.websocket.server.WsFilter",
+      "method" : "doFilter",
+      "file" : "WsFilter.java",
+      "line" : 51,
+      "exact" : false,
+      "location" : "tomcat-embed-websocket-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.RequestContextFilter",
+      "method" : "doFilterInternal",
+      "file" : "RequestContextFilter.java",
+      "line" : 100,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.FormContentFilter",
+      "method" : "doFilterInternal",
+      "file" : "FormContentFilter.java",
+      "line" : 93,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.ServerHttpObservationFilter",
+      "method" : "doFilterInternal",
+      "file" : "ServerHttpObservationFilter.java",
+      "line" : 114,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.CharacterEncodingFilter",
+      "method" : "doFilterInternal",
+      "file" : "CharacterEncodingFilter.java",
+      "line" : 201,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 116,
+      "exact" : false,
+      "location" : "spring-web-6.2.0.jar",
+      "version" : "6.2.0"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 164,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 140,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardWrapperValve",
+      "method" : "invoke",
+      "file" : "StandardWrapperValve.java",
+      "line" : 167,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardContextValve",
+      "method" : "invoke",
+      "file" : "StandardContextValve.java",
+      "line" : 90,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.authenticator.AuthenticatorBase",
+      "method" : "invoke",
+      "file" : "AuthenticatorBase.java",
+      "line" : 483,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardHostValve",
+      "method" : "invoke",
+      "file" : "StandardHostValve.java",
+      "line" : 115,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.valves.ErrorReportValve",
+      "method" : "invoke",
+      "file" : "ErrorReportValve.java",
+      "line" : 93,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.core.StandardEngineValve",
+      "method" : "invoke",
+      "file" : "StandardEngineValve.java",
+      "line" : 74,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.catalina.connector.CoyoteAdapter",
+      "method" : "service",
+      "file" : "CoyoteAdapter.java",
+      "line" : 344,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.coyote.http11.Http11Processor",
+      "method" : "service",
+      "file" : "Http11Processor.java",
+      "line" : 397,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.coyote.AbstractProcessorLight",
+      "method" : "process",
+      "file" : "AbstractProcessorLight.java",
+      "line" : 63,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.coyote.AbstractProtocol$ConnectionHandler",
+      "method" : "process",
+      "file" : "AbstractProtocol.java",
+      "line" : 905,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.net.NioEndpoint$SocketProcessor",
+      "method" : "doRun",
+      "file" : "NioEndpoint.java",
+      "line" : 1741,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.net.SocketProcessorBase",
+      "method" : "run",
+      "file" : "SocketProcessorBase.java",
+      "line" : 52,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1190,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 659,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.apache.tomcat.util.threads.TaskThread$WrappingRunnable",
+      "method" : "run",
+      "file" : "TaskThread.java",
+      "line" : 63,
+      "exact" : false,
+      "location" : "tomcat-embed-core-10.1.33.jar",
+      "version" : "10.1.33"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "21.0.5",
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 1583,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 56,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999176,
+    "nanoOfSecond" : 417517000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.GracefulShutdown",
+  "message" : "Commencing graceful shutdown. Waiting for active requests to complete",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999176,
+    "nanoOfSecond" : 420483000
+  },
+  "thread" : "tomcat-shutdown",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.GracefulShutdown",
+  "message" : "Graceful shutdown complete",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 86,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999176,
+    "nanoOfSecond" : 424758000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999176,
+    "nanoOfSecond" : 426707000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+, {
+  "instant" : {
+    "epochSecond" : 1733999176,
+    "nanoOfSecond" : 428352000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "timestamp" : "%d{yyyy-MM-dd HH:mm:ss}",
+  "logLevel" : "%level",
+  "loggerName" : "%logger",
+  "message" : "%msg",
+  "thread" : "%t",
+  "exception" : "%ex{full}"
+}
+
+]

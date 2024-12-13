@@ -1,0 +1,49 @@
+spring:
+  application:
+    name: themovie
+
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://localhost:1433;database=theMovie;encrypt=false;trustServerCertificate=true
+    username: sa
+    password: l£0Ar407Eg
+
+  jpa:
+    ##show-sql: true
+    hibernate:
+      ddl-auto: update                 # Veritabanı şeması her başlatmada oluşturulur ve sonlandırılır
+    properties:
+      hibernate:
+        format_sql: true               # SQL sorgularını daha okunabilir hale getirir
+        use_sql_comments: true         # SQL sorgularına açıklamalar ekler
+        #dialect: org.hibernate.dialect.SQLServerDialect # SQL Server için Hibernate Dialect
+
+##logging:
+##  level:
+##    org.hibernate.SQL: DEBUG
+##    org.hibernate.type.descriptor.sql: TRACE
+
+springdoc:
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  swagger-ui:
+    enabled: true
+    path: /themovieDoc
+
+server:
+  port: 8080
+
+logging:
+  config: classpath:log4j2.xml  # Log4j2 yapılandırmasını belirtir
+
+
+# jwt:
+#   secret: y7PnSM3plBf5tYP7GzC9A29IWcZz4h72H0x2Uzv82DdHgR3Oj5ROFxBzVuXtX7I1uJMRVxsQv8XtqZnzAHROA==
+#   token-validity-in-seconds: 3600
+#   token-validity-in-seconds-for-remember-me: 2592000
+
+
+# springdoc:
+#   swagger-ui:
+#     disable-swagger-default-url: true
