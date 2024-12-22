@@ -9,7 +9,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import java.net.URI;
 import java.util.List;
 
 @RequiredArgsConstructor
@@ -25,18 +24,13 @@ public abstract class BaseController<
     @Operation(summary = "Create a new resource")
     @PostMapping
     public ResponseEntity<Void> create(@RequestBody CREATE_REQ createReq) {
-        // Service'ten yeni kaynağın ID'sini döndür
-        Long id = service.create(createReq);
-
-        // Location URI'sini oluştur
-        URI location = ServletUriComponentsBuilder
-                .fromCurrentRequest() // Mevcut URI'yi temel alır
-                .path("/{id}")        // URI'ye /{id} ekler
-                .buildAndExpand(id)   // {id} kısmını ID ile değiştirir
-                .toUri();
-
-        // 201 Created yanıtı döndür
-        return ResponseEntity.created(location).build();
+        return ResponseEntity.created(
+                        ServletUriComponentsBuilder
+                                .fromCurrentRequestUri()
+                                .path("/{id}")
+                                .buildAndExpand(service.create(createReq))
+                                .toUri())
+                .build();
     }
 
     @Operation(summary = "Get all resources")
