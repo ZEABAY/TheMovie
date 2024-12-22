@@ -11,13 +11,14 @@
             <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
         </Console>
 
-        <!-- JSON formatlı dosya loglaması -->
+        <!-- JSON formatlı dosya loglaması (yoruma alınmış) -->
+        <!--
         <RollingFile name="JsonFile"
                      fileName="logs/aop-logs.json"
                      filePattern="logs/aop-logs-%d{yyyy-MM-dd}.json">
-            <!-- JSON formatında loglama yapmak için JsonLayout kullanılır -->
+            JSON formatında loglama yapmak için JsonLayout kullanılır
             <JsonLayout complete="true" compact="false" eventEol="true">
-                <!-- JSON formatına dahil edilecek alanlar -->
+                JSON formatına dahil edilecek alanlar
                 <KeyValuePair key="timestamp" value="%d{yyyy-MM-dd HH:mm:ss}"/>
                 <KeyValuePair key="logLevel" value="%level"/>
                 <KeyValuePair key="loggerName" value="%logger"/>
@@ -25,12 +26,13 @@
                 <KeyValuePair key="thread" value="%t"/>
                 <KeyValuePair key="exception" value="%ex{full}"/>
             </JsonLayout>
-            <!-- Log dosyalarının rotasyon politikası -->
+            Log dosyalarının rotasyon politikası
             <Policies>
-                <!-- Günlük rotasyon: Her gün yeni bir dosya oluşturulacak -->
+                Günlük rotasyon: Her gün yeni bir dosya oluşturulacak
                 <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
             </Policies>
         </RollingFile>
+        -->
     </Appenders>
 
     <Loggers>
@@ -42,11 +44,12 @@
             <AppenderRef ref="Console"/>
         </Logger>
 
-        <!-- Root logger: Tüm logları kapsar -->
+        <!-- Root logger -->
         <Root level="INFO">
             <!-- Hem konsol hem de JSON dosyasına yazılacak -->
             <AppenderRef ref="Console"/>
-            <AppenderRef ref="JsonFile"/>
+            <!-- JSON dosyası için referans yoruma alınmış -->
+            <!-- <AppenderRef ref="JsonFile"/> -->
         </Root>
     </Loggers>
 </Configuration>
