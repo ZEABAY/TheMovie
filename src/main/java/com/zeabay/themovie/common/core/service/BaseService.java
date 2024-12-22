@@ -10,7 +10,7 @@ public interface BaseService<
         READ_RES extends BaseResponse,
         UPDATE_REQ extends BaseRequest
         > {
-    void create(CREATE_REQ createReq);
+    Long create(CREATE_REQ createReq);
 
     List<READ_RES> getAll();
 

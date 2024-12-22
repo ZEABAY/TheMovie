@@ -2,6 +2,7 @@ package com.zeabay.themovie.common.core.service;
 
 import com.zeabay.themovie.common.core.dto.BaseRequest;
 import com.zeabay.themovie.common.core.dto.BaseResponse;
+import com.zeabay.themovie.common.core.entity.BaseEntity;
 import com.zeabay.themovie.common.core.mapper.BaseMapper;
 import com.zeabay.themovie.common.core.repository.BaseRepository;
 
@@ -10,7 +11,7 @@ import java.util.stream.Collectors;
 
 
 public abstract class BaseServiceImpl<
-        ENTITY,
+        ENTITY extends BaseEntity,
         CREATE_REQ extends BaseRequest,
         READ_RES extends BaseResponse,
         UPDATE_REQ extends BaseRequest>
@@ -26,10 +27,11 @@ public abstract class BaseServiceImpl<
     }
 
     @Override
-    public void create(CREATE_REQ createReq) {
+    public Long create(CREATE_REQ createReq) {
         ENTITY entity = mapper.toEntity(createReq);
         handleRelationships(createReq, entity);
-        repository.save(entity);
+        ENTITY savedEntity = repository.save(entity);
+        return savedEntity.getId();
     }
 
     @Override
