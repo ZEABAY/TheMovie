@@ -25,11 +25,10 @@ public class PopularMovieServiceImpl extends BaseServiceImpl<
 
     private final GenreRepository genreRepository;
 
-    // Super çağırısı için @RequiredArgsConstructor yerine manuel constructor yazılmalı.
-    public PopularMovieServiceImpl(PopularMovieRepository repository,
-                                   PopularMovieMapper mapper,
+    public PopularMovieServiceImpl(PopularMovieRepository popularMovieRepository,
+                                   PopularMovieMapper popularMovieMapper,
                                    GenreRepository genreRepository) {
-        super(repository, mapper);
+        super(popularMovieRepository, popularMovieMapper);
         this.genreRepository = genreRepository;
     }
 
