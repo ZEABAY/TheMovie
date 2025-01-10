@@ -5,11 +5,12 @@ import com.zeabay.themovie.common.core.dto.BaseResponse;
 import com.zeabay.themovie.common.core.entity.BaseEntity;
 import com.zeabay.themovie.common.core.mapper.BaseMapper;
 import com.zeabay.themovie.common.core.repository.BaseRepository;
+import lombok.RequiredArgsConstructor;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
-
+@RequiredArgsConstructor
 public abstract class BaseServiceImpl<
         ENTITY extends BaseEntity,
         CREATE_REQ extends BaseRequest,
@@ -19,12 +20,6 @@ public abstract class BaseServiceImpl<
 
     protected final BaseRepository<ENTITY> repository;
     protected final BaseMapper<ENTITY, CREATE_REQ, READ_RES, UPDATE_REQ> mapper;
-
-    protected BaseServiceImpl(BaseRepository<ENTITY> repository,
-                              BaseMapper<ENTITY, CREATE_REQ, READ_RES, UPDATE_REQ> mapper) {
-        this.repository = repository;
-        this.mapper = mapper;
-    }
 
     @Override
     public Long create(CREATE_REQ createReq) {
