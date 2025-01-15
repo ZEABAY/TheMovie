@@ -19,9 +19,10 @@ public interface BaseMapper<
     READ_RES toResponse(ENTITY entity);
 
     @Mapping(target = "id", ignore = true)
+    @Mapping(target = "createdAt", ignore = true)
+    @Mapping(target = "updatedAt", ignore = true)
     @Mapping(target = "deleted", ignore = true)
     @Mapping(target = "status", ignore = true)
-    @Mapping(target = "genres", ignore = true)
     @BeanMapping(nullValuePropertyMappingStrategy = NullValuePropertyMappingStrategy.IGNORE)
     void updateEntity(UPDATE_REQ updateReq, @MappingTarget ENTITY entity);
 }

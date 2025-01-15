@@ -29,7 +29,7 @@ public abstract class BaseEntity implements Serializable {
     private Status status = Status.ACTIVE;
 
 
-    //TODO eklenecek
+    //TODO auditting eklenecek
     //@CreationTimestamp
     //@Column(name = "created_date")
     //private LocalDateTime createdDate;
